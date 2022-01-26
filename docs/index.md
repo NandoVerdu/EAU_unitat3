@@ -1,7 +1,7 @@
 --- 
 title: "UNITAT 3: LLANÇAMENT DE L'EMPRESA AL MERCAT"
 author: "Fernando Verdú Primo"
-date: "`r Sys.Date()`"
+date: "2022-01-26"
 output: pdf_document
 template: template.tex
 documentclass: book
@@ -57,9 +57,10 @@ Una vegada realitzat l'estudi de mercat, l'empresa haurà de disenyar *un pla de
 El *marketing* és el conjunt de tècniques utilitzades per a aconseguir el màxim benefici amb la venda d'un producte i la satisfacció del client. Per a que puguen asolir-se els objectius plantejats pel marketing, hi ha quatre variables que representen la política comercial de la empresa: producte, preu, comunicació i distribució.
 
 
-```{r,eval=TRUE, echo=FALSE, fig.cap="Elements del pla de marketing"}
-knitr::include_graphics('tablaMarketing.png')
-```
+<div class="figure">
+<img src="tablaMarketing.png" alt="Elements del pla de marketing"  />
+<p class="caption">(\#fig:unnamed-chunk-1)Elements del pla de marketing</p>
+</div>
 
 
 
@@ -68,9 +69,10 @@ knitr::include_graphics('tablaMarketing.png')
 És el mitjà que utilitza l'empresa per donar a conèixer els seus productes a la clientela potencial i influir en les seues decisions de compra.
 
 
-```{r, fig.cap='Característiques del tipus de publicitat', eval=TRUE, echo=FALSE}
-knitr::include_graphics('tablaPublicitat.png')
-```
+<div class="figure">
+<img src="tablaPublicitat.png" alt="Característiques del tipus de publicitat"  />
+<p class="caption">(\#fig:unnamed-chunk-2)Característiques del tipus de publicitat</p>
+</div>
 
 
 S'han de definir els objectius que es pretenen aconseguir amb la publicitat, qui són els destinataris i quins mitjans publicitaris s'utilitzaran.
@@ -108,9 +110,10 @@ Com a línia horitzontal es fa referència al valor que ve representat pel creix
 
 De la intersecció d'ambdues rectes sobté un pla dividit en quatre zones, tal com s'indica al gràfic:
 
-```{r, out.width='50%', fig.align='center', fig.cap='Matriu de la BCG', echo=FALSE}
-knitr::include_graphics('bcgmatriz.png')
-```
+<div class="figure" style="text-align: center">
+<img src="bcgmatriz.png" alt="Matriu de la BCG" width="50%" />
+<p class="caption">(\#fig:unnamed-chunk-3)Matriu de la BCG</p>
+</div>
 
 Els *productes estrella* tenen una taxa de creixement elevada i quota de mercat alta: els beneficis que s'obtenen es reinverteixen amb la finalitat de consolidar la seua quota de mercat i el seu creixement. 
 
@@ -144,9 +147,10 @@ El cicle de vida empresarial  és el procés de canvi en una empresa a través d
 
 Si observem l'actuació de les empreses al mercat, arribem a la conclusió de que el comportament s'assembla al dels éssers vius, és a dir, presenten un cicle vital: naixen, creixen, es desenvolupen i moren.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Cicle de vida de l'empresa"}
-knitr::include_graphics('cicle.png')
-```
+<div class="figure">
+<img src="cicle.png" alt="Cicle de vida de l'empresa" width="100%" />
+<p class="caption">(\#fig:unnamed-chunk-4)Cicle de vida de l'empresa</p>
+</div>
 
 Afirmar que una empresa té un cicle de vida implica tenir en compte aquestos aspectes:
 
@@ -164,6 +168,7 @@ Les pràctiques de responsabilitat social corporativa són una tendència actual
 
 Per altra banda, la responsabilitat social corporativa també resulta adequada atés que qualsevol consumidor té tendència a exigir cada vegada més que hi haja una major transparència en les activitats que porten a terme les empreses.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Marketing Social 2021"}
-knitr::include_graphics('marketingSocial.png')
-```
+<div class="figure">
+<img src="marketingSocial.png" alt="Marketing Social 2021" width="100%" />
+<p class="caption">(\#fig:unnamed-chunk-5)Marketing Social 2021</p>
+</div>
