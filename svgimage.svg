@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="159.59914mm"
+   height="80.954559mm"
+   viewBox="0 0 159.59914 80.954559"
+   version="1.1"
+   id="svg1051"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="svgimage.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1053"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="328.9909"
+     inkscape:cy="245.89175"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1048">
+    <radialGradient
+       id="g"
+       cx="549.28998"
+       cy="159.12"
+       r="127"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65,-1.52,1.4,0.601129,-26.35,869.29)">
+      <stop
+         offset="0"
+         stop-color="#f00"
+         stop-opacity=".27"
+         id="stop1112" />
+      <stop
+         offset="1"
+         stop-color="#f00"
+         id="stop1114" />
+    </radialGradient>
+    <radialGradient
+       id="h"
+       cx="492.85999"
+       cy="379.51001"
+       r="184.96001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.945,0.042,-0.043,0.988,43.598,-15.991)">
+      <stop
+         offset=".5"
+         id="stop1117" />
+      <stop
+         offset=".75"
+         id="stop1119" />
+      <stop
+         offset=".88"
+         stop-opacity=".72"
+         id="stop1121" />
+      <stop
+         offset=".94"
+         stop-opacity=".51"
+         id="stop1123" />
+      <stop
+         offset=".97"
+         stop-opacity=".33"
+         id="stop1125" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop1127" />
+    </radialGradient>
+    <radialGradient
+       id="k"
+       cx="449.13"
+       cy="345.23001"
+       r="184.96001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.06,0,0,1,-30.44,2)">
+      <stop
+         offset="0"
+         stop-color="#fa4"
+         id="stop1130" />
+      <stop
+         offset=".5"
+         stop-color="#c3791f"
+         id="stop1132" />
+      <stop
+         offset="1"
+         stop-color="#935000"
+         id="stop1134" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.878829,-25.843108)">
+    <g
+       id="g1196"
+       transform="matrix(0.26458333,0,0,0.26458333,16.291329,24.379962)">
+      <g
+         fill-opacity="0.5"
+         stroke-width="4"
+         id="g1145">
+        <circle
+           cx="108"
+           cy="108.5"
+           r="100"
+           fill="#00ffff"
+           stroke="#00ffff"
+           id="circle1139" />
+        <circle
+           cx="157.3"
+           cy="209.5"
+           r="100"
+           fill="#ffff00"
+           stroke="#ffff00"
+           id="circle1141" />
+        <circle
+           cx="209.2"
+           cy="109.5"
+           r="100"
+           fill="#ff00ff"
+           stroke="#ff00ff"
+           id="circle1143" />
+      </g>
+      <rect
+         x="357.20001"
+         y="7.5300002"
+         width="250"
+         height="150"
+         rx="41.429001"
+         fill="url(#g)"
+         stroke="#000000"
+         stroke-width="4"
+         stroke-dasharray="8, 4"
+         id="rect1147"
+         style="fill:url(#g)" />
+      <text
+         x="405.10999"
+         y="106.51"
+         font-family="'Bitstream Vera Sans'"
+         font-size="72px"
+         font-style="oblique"
+         font-weight="700"
+         fill="#ffffff"
+         fill-opacity="0.5"
+         stroke="#000000"
+         stroke-width="3"
+         stroke-dasharray="6, 3"
+         id="text1149">SVG</text>
+      <g
+         transform="matrix(0.4033,0,0,0.4034,284.7118,53.5686)"
+         id="g1163">
+        <path
+           fill="url(#h)"
+           transform="translate(25.72,42.14)"
+           d="m 675.82,379.51 a 182.965,182.965 0 1 0 -365.93,0 182.965,182.965 0 1 0 365.93,0"
+           id="path1151"
+           style="fill:url(#h)" />
+        <path
+           fill="url(#k)"
+           transform="translate(3,1)"
+           d="m 675.82,379.51 a 182.965,182.965 0 1 0 -365.93,0 182.965,182.965 0 1 0 365.93,0"
+           id="path1153"
+           style="fill:url(#k)" />
+        <path
+           d="m 448.21,203.84 c 2.15,0.79 5.54,2.11 8.13,3.88 2.6,1.77 4.37,3.88 4.5,6.28 0.32,5.5 1.89,10.23 -4.53,20.22 -6.42,9.99 -21.15,24.86 -53.56,48.22 -60.86,43.86 -75.05,136.67 -77.92,163.02 l 3.11,7.76 c 0,0 8.12,-117.78 77.15,-167.53 32.6,-23.5 47.63,-38.52 54.57,-49.31 6.93,-10.8 5.46,-17.74 5.18,-22.63 -0.23,-4.18 -3.15,-7.19 -6.25,-9.31 -1.28,-0.88 -2.64,-1.57 -3.94,-2.2 l -6.44,1.6"
+           id="path1155" />
+        <path
+           d="m 509.02,198.03 c -9.49,11.84 -31.1,47.48 -43.86,138.72 -15.76,112.68 -14.45,210.08 -14.24,221.09 l 4.02,0.91 c 0,0 -2.5,-102.15 14.19,-221.47 13.62,-97.4 37.3,-130.42 44.77,-138.82 0,0 -4.88,-0.43 -4.88,-0.43"
+           id="path1157" />
+        <path
+           d="m 556.69,211.63 c -9.65,0.18 -19.67,2.89 -26.72,11.28 -9.23,10.98 -9.05,22.85 -5.47,33.28 3.58,10.42 10.38,19.74 14.47,26.69 2.23,3.79 8.49,12.7 16.47,26.31 7.98,13.61 17.59,31.79 26.28,53.59 17.38,43.61 31.01,101.69 20.22,166.81 0,0 4.63,-3.51 4.63,-3.51 9.69,-64.34 -3.93,-121.65 -21.13,-164.8 -8.79,-22.04 -18.51,-40.39 -26.56,-54.12 -8.06,-13.74 -14.53,-23.01 -16.47,-26.32 -4.27,-7.25 -10.82,-16.33 -14.13,-25.96 -3.31,-9.64 -3.57,-19.47 4.75,-29.38 8.15,-9.7 21.17,-10.84 32.53,-9.37 11.36,1.46 20.7,5.39 20.7,5.39 0,0 -17.76,-8.96 -17.76,-8.96 -0.86,-0.14 -1.52,-0.29 -2.41,-0.4 -3,-0.39 -6.19,-0.6 -9.4,-0.53"
+           id="path1159" />
+        <path
+           d="m 458.16,224.97 c -33.83,1.05 -58.96,8.84 -76.66,17.44 -5.44,2.64 -10.14,5.47 -14.21,8.11 -4.57,4.56 -9.8,10.29 -16.73,18.89 0,0 9.74,-12.26 32.69,-23.41 22.95,-11.15 58.97,-21.02 111.28,-15.62 104.65,10.79 148.68,66.6 181.19,116.62 0,0 -2.34,-10.63 -2.34,-10.63 -32.35,-48.05 -78.39,-99.67 -178.44,-109.99 -13.25,-1.37 -25.51,-1.76 -36.78,-1.41"
+           id="path1161" />
+      </g>
+    </g>
+  </g>
+</svg>

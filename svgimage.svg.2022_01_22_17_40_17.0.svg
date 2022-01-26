@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="159.59914mm"
+   height="80.954559mm"
+   viewBox="0 0 159.59914 80.954559"
+   version="1.1"
+   id="svg1051"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="svgimage.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1053"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="328.9909"
+     inkscape:cy="245.89175"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1048">
+    <radialGradient
+       id="g"
+       cx="549.28998"
+       cy="159.12"
+       r="127"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65,-1.52,1.4,0.601129,-26.35,869.29)">
+      <stop
+         offset="0"
+         stop-color="#f00"
+         stop-opacity=".27"
+         id="stop1112" />
+      <stop
+         offset="1"
+         stop-color="#f00"
+         id="stop1114" />
+    </radialGradient>
+    <radialGradient
+       id="h"
+       cx="492.85999"
+       cy="379.51001"
+       r="184.96001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.945,0.042,-0.043,0.988,43.598,-15.991)">
+      <stop
+         offset=".5"
+         id="stop1117" />
+      <stop
+         offset=".75"
+         id="stop1119" />
+      <stop
+         offset=".88"
+         stop-opacity=".72"
+         id="stop1121" />
+      <stop
+         offset=".94"
+         stop-opacity=".51"
+         id="stop1123" />
+      <stop
+         offset=".97"
+         stop-opacity=".33"
+         id="stop1125" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop1127" />
+    </radialGradient>
+    <radialGradient
+       id="k"
+       cx="449.13"
+       cy="345.23001"
+       r="184.96001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.06,0,0,1,-30.44,2)">
+      <stop
+         offset="0"
+         stop-color="#fa4"
+         id="stop1130" />
+      <stop
+         offset=".5"
+         stop-color="#c3791f"
+         id="stop1132" />
+      <stop
+         offset="1"
+         stop-color="#935000"
+         id="stop1134" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.878829,-25.843108)" />
+</svg>

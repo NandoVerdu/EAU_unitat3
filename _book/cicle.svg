@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="290.5957mm"
+   height="163.90398mm"
+   viewBox="0 0 290.5957 163.90397"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="cicle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="604.1717"
+     inkscape:cy="499.27605"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1132" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.3453558,-30.556373)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 16.717957,31.503763 c 0,153.546127 0,152.825257 0,152.825257"
+       id="path1048" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.414166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 16.717957,184.32902 h 55.567168 55.567145 55.56715 55.56717 55.56716"
+       id="path1050"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.263917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.791751, 0.791751;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 78.366742,30.556373 c 0,152.779197 0,152.061857 0,152.061857"
+       id="path3437" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.263917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.791751, 0.791751;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 148.99726,30.556373 c 0,152.779197 0,152.061857 0,152.061857"
+       id="path3439" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.263917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.791751, 0.791751;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 225.9778,30.556373 c 0,152.779197 0,152.061857 0,152.061857"
+       id="path3441" />
+    <path
+       style="fill:none;stroke:#0d6efd;stroke-width:0.720199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.717957,184.32902 c 51.192075,-15.35628 66.86369,-24.17737 81.585037,-45.07483 63.532026,-90.185918 161.537646,-22.378 166.015836,12.87088"
+       id="path9113"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.11026"
+       y="193.04097"
+       id="text11878"><tspan
+         sodipodi:role="line"
+         id="tspan11876"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="142.11026"
+         y="193.04097">Temps</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-130.31737"
+       y="14.705928"
+       id="text16354"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16352"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="-130.31737"
+         y="14.705928">Vendes</tspan></text>
+    <rect
+       style="opacity:0.503597;fill:none;stroke:none;stroke-width:1.13717;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21014"
+       width="50.912533"
+       height="56.733868"
+       x="24.474218"
+       y="34.213909" />
+    <rect
+       style="opacity:0.503597;fill:none;stroke:none;stroke-width:1.32333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21096"
+       width="59.016418"
+       height="66.279503"
+       x="82.117058"
+       y="34.306988" />
+    <rect
+       style="opacity:0.503597;fill:none;stroke:none;stroke-width:1.16582;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21098"
+       width="71.78923"
+       height="42.28775"
+       x="151.69719"
+       y="34.22823" />
+    <rect
+       style="opacity:0.503597;fill:none;stroke:none;stroke-width:1.42435;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21100"
+       width="73.693306"
+       height="61.492802"
+       x="226.24776"
+       y="34.357502" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect21014);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="165.96913"
+       y="217.55067"
+       id="text21104"
+       transform="translate(0,19.579173)"><tspan
+         x="26.811335"
+         y="40.651845"
+         id="tspan88893"><tspan
+           style="font-weight:bold;font-size:5.64444px;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan88889">INTRODUCCIÓ</tspan><tspan
+           dx="4.7983246"
+           style="font-weight:bold;font-size:5.64444px;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan88891" /></tspan><tspan
+         x="24.709104"
+         y="49.471296"
+         id="tspan88899"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan88895">Vendes baixes</tspan><tspan
+           dx="3.6759186"
+           style="text-align:center;text-anchor:middle"
+           id="tspan88897" /></tspan><tspan
+         x="26.979423"
+         y="58.290746"
+         id="tspan88905"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan88901">Elevats costs</tspan><tspan
+           dx="3.6759186"
+           style="text-align:center;text-anchor:middle"
+           id="tspan88903" /></tspan><tspan
+         x="28.424642"
+         y="67.110196"
+         id="tspan88909"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan88907">No beneficis</tspan></tspan></text>
+    <rect
+       style="opacity:0.503597;fill:none;stroke:none;stroke-width:1.13717;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect41626"
+       width="50.912533"
+       height="56.733868"
+       x="24.474218"
+       y="34.213909" />
+    <rect
+       style="opacity:0.503597;fill:none;stroke:none;stroke-width:1.13717;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect44968"
+       width="50.912533"
+       height="56.733868"
+       x="24.474218"
+       y="34.213909" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect21096);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.380791"
+       y="230.52641"
+       id="text45052"
+       transform="translate(0,19.579173)"><tspan
+         x="91.14718"
+         y="40.099938"
+         id="tspan88915"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan88911">Creixement</tspan><tspan
+           dx="2.8928452"
+           style="text-align:center;text-anchor:middle"
+           id="tspan88913" /></tspan><tspan
+         x="83.49061"
+         y="48.681142"
+         id="tspan88921"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88917">Vendes creixent</tspan><tspan
+           dx="2.7801933"
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88919" /></tspan><tspan
+         x="82.255542"
+         y="57.500592"
+         id="tspan88927"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88923">Costs disminuint</tspan><tspan
+           dx="2.7801933"
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88925" /></tspan><tspan
+         x="82.445022"
+         y="66.320043"
+         id="tspan88931"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88929">Beneficis reduits</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect21098);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.380791"
+       y="230.52641"
+       id="text55694"
+       transform="translate(0,19.579173)"><tspan
+         x="170.28898"
+         y="40.021813"
+         id="tspan88935"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan88933">Maduresa
+</tspan></tspan><tspan
+         x="156.62209"
+         y="48.603017"
+         id="tspan88939"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88937">Vendes constants
+</tspan></tspan><tspan
+         x="158.22234"
+         y="57.422467"
+         id="tspan88943"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88941">Costs disminuint
+</tspan></tspan><tspan
+         x="156.46189"
+         y="66.241918"
+         id="tspan88947"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88945">Beneficis creixent</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect21100);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.380791"
+       y="230.52641"
+       id="text71512"
+       transform="translate(0,19.579173)"><tspan
+         x="251.16367"
+         y="40.150719"
+         id="tspan88951"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan88949">Declivi
+</tspan></tspan><tspan
+         x="230.68497"
+         y="48.731923"
+         id="tspan88955"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88953">Vendes disminuint
+</tspan></tspan><tspan
+         x="235.16532"
+         y="57.551374"
+         id="tspan88959"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88957">Costs constants
+</tspan></tspan><tspan
+         x="227.68946"
+         y="66.370824"
+         id="tspan88963"><tspan
+           style="font-weight:normal;font-size:7.05556px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan88961">Beneficis disminuint</tspan></tspan></text>
+  </g>
+</svg>
